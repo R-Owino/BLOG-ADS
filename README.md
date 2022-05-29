@@ -10,8 +10,11 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 
 ### d) Recording the Experimental Design 
 i) Load, preview and understand the data 
+
 ii) Perform data cleaning and manipulation
+
 iii) Perform Exploratory Data Analysis
+
 iv) Give recommendations
 
 
