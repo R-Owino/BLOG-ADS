@@ -13,3 +13,6 @@ i) Load, preview and understand the data
 ii) Perform data cleaning and manipulation
 iii) Perform Exploratory Data Analysis
 iv) Give recommendations
+
+
+The whole analysis can be found here: https://rpubs.com/r_owino/907950
